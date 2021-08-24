@@ -10,3 +10,4 @@ This is a full stack web application that DACC App Dev 2 students will be workin
 Front End Development will done in HTML/CSS/Javascript. 
 Back End Development will be done in C# with a SQL Server database.
 
+Hi, I added this note. 
